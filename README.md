@@ -13,7 +13,7 @@ $ python3 -m venv /path/to/new/virtual/environment
 ```
 Install requirements
 ```sh
-$ pip install -r requirements
+$ pip install -r requirements.txt
 ```
 
 The script uses google api to create/edit playlists, so to use it you'll need to edit the "config.py" file with the location of your credentials file
