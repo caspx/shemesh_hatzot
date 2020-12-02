@@ -1,9 +1,9 @@
 # Shemesh Hatzot
 
-Automatically generates a youtube playlist from a tracklist image uploaded to twitter. 
+Automatically generate a youtube playlist from a tracklist image uploaded to twitter. 
 
 
-This tool download the tracklist images, converts them to text, and creates using Google API a Youtube playlist
+The script downloads the tracklist images from twitter, converts them to text, and creates (using Google API) a Youtube playlist in your account.
 
 ### Usage
 
