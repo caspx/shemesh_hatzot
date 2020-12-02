@@ -1,0 +1,4 @@
+pytesseract==0.3.4
+twint==2.1.19
+google-api-python-client==1.8.2
+google-auth-oauthlib==0.4.1
